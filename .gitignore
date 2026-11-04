@@ -1,0 +1,23 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### VS Code ###
+.vscode/
+
+### Operating Systems (Mac - Windows) ###
+.DS_Store
+Thumbs.db
+Desktop.init
+
+### Maven ###
+target/
+*.war
+*.ear
+*.jar
+
+### Environment files ###
+.env*
