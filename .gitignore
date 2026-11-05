@@ -11,7 +11,7 @@ out/
 ### Operating Systems (Mac - Windows) ###
 .DS_Store
 Thumbs.db
-Desktop.init
+desktop.ini
 
 ### Maven ###
 target/
