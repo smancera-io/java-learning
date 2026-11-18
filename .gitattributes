@@ -1,0 +1,17 @@
+# General Rule
+* text=auto eol=lf
+
+# Specific Rules
+# Language-Specific Diff
+*.java diff=java
+
+# Treat as binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.pdf binary
+*.jar binary
+
+# Force CRLF for Windows scripts
+*.bat eol=crlf
+*.cmd eol=crlf
