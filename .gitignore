@@ -1,0 +1,47 @@
+# IDEs & Editors
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VsCode
+.vscode/
+*.code-workspace
+
+# Build Artifacts & Dependencies
+target/
+build/
+*.class
+*.war
+*.ear
+*.jar
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Operating System Files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
